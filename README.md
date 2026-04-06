@@ -86,8 +86,6 @@ Modelo de receita
 
 🛠️ Tecnologias Utilizadas
 
-(ajuste conforme seu projeto real)
-
 HTML, CSS e JavaScript
 Conceitos de Inteligência Artificial
 Modelagem de dados
